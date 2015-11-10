@@ -121,20 +121,21 @@ margin:1em 1em
 
 .footer-nav{
   width: 100%;
-  height: 1em;
-  margin:130em 1em 0 0;
+  height: 0.3em;
+  margin:100em 0 0 0;
   background-color:#fff;
   float:left;
-  padding-top: 0.8em;
+  padding-top: 0;
+  padding-bottom: 2em;
 }
 .footer-nav ul{
-  padding-top: 1em;
+  padding-top: 0.1em;
   padding-left: 0;
 }
 .footer-nav ul li{
   float:left;
-  margin-left: 1em;
-  font-size: 0.1em;
+  margin-left: 2em;
+  font-size: 0.3em;
   color:#abc;
   display: inline;
   height: 1em;
