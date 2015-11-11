@@ -23,14 +23,16 @@ body {
   top: -80px;
   left: 130px;
 }
-.nav .flag li h2 {
+
+.nav .flag li h2{
   display: inline;
   clear:both;
   padding-top: 2px;
   padding-bottom: 2px;
   font-size: 0.6em;
+  cursor: pointer;
+  color: rgb(130,130,130);
 }
-
 
 
 .nav .flag li h2:hover{
