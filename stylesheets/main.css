@@ -113,7 +113,7 @@ body {
 .text h1{
   font-size: 4em;
   font-weight: bold;
-  font-family: Tahoma;
+  font-family: Verdana;
   margin:0.5em 1em;
   color:#bc8f8f;
 }
@@ -122,7 +122,8 @@ body {
 font-size: 2em;
 line-height: 1.3em;
 color: #2e8b57;
-margin:1em 1em
+margin:1em 1em;
+font-family: Arial;
 }
 
 
