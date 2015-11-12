@@ -29,12 +29,14 @@ width:1em;
   margin:1em 1.5em 2em 1em;
 }
 
-
+.nav .flag li{
+  list-style:none;
+}
 .nav .flag li h2{
   display: block;
-  font-size: 80%;
+  font-size: 88%;
   font-style: oblique;
-  margin:0.8em 1.5em;
+  margin:0.8em;
   cursor: pointer;
   color: rgb(130,130,130);
 }
@@ -49,8 +51,8 @@ width:1em;
   float:right;
   display: inline-block;
   margin:1em 1em;
-  width:62%;
-  height:12em;
+  width:60%;
+  height:30%;
 }
 
 .text h1{
@@ -66,8 +68,9 @@ font-size: 1.1em;
 line-height: 1em;
 color: #2e8b57;
 margin:1em 1em;
-width:20em;
+width:80%;
 font-family: Arial;
+text-align: center;
 }
 
 
@@ -76,7 +79,7 @@ font-family: Arial;
 .pictures{
   float:right;
   display: inline-block;
-  margin:3em 0.3em 0.3em 0.3em;
+  margin:1.5em 0.3em 0.3em 0.3em;
   width:60%;
   height:48em;
 }
@@ -97,6 +100,7 @@ font-family: Arial;
   border-color: #d6d6d6;
   filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
   opacity: 1;
+  margin:1em 1em;
 }
 
 
