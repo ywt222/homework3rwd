@@ -65,11 +65,11 @@ width:1em;
 
 .text p{
 font-size: 1.1em;
-line-height: 1em;
+line-height: 1.3em;
 color: #2e8b57;
 margin:1em 1em;
 width:80%;
-font-family: Arial;
+font-family: inherit;
 text-align: center;
 }
 

@@ -76,10 +76,10 @@ body {
 
 .text p{
 font-size: 1em;
-line-height: 1em;
+line-height: 1.3em;
 color: #2e8b57;
 margin:1em 1em;
-font-family: Arial;
+font-family: monospace;
 }
 
 
