@@ -145,8 +145,8 @@ font-family: cursive;
 
 
 .pictures .item img{
-  width:82%;
-  height:70%;
+  max-width:82%;
+  max-height:70%;
   /*color change*/
   -webkit-filter: grayscale(0);
   filter: grayscale(0);
